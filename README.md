@@ -7,14 +7,17 @@ Pre-requỉre : 2 máy kết nối cùng một mạng. Ấn win + R gõ cmd rồ
                         Reply from 10.11.236.51: bytes=32 time<1ms TTL=128
                         Reply from 10.11.236.51: bytes=32 time<1ms TTL=128
 
-Máy server: + Vào folder src chạy ServerMain.java
-            + Chỉnh 10.11.236.51 ở homepage.java rồi run
+Máy server: 
++ Vào folder src chạy ServerMain.java
++ Chỉnh 10.11.236.51 ở homepage.java rồi run
 
-Máy client: + Vào folder src chỉnh host ở homepage.java thành 10.11.236.51
-            + Run homepage.java
+Máy client: 
++ Vào folder src chỉnh host ở homepage.java thành 10.11.236.51
++ Run homepage.java
 
-Máy server: + Nhập id và password ở bên máy client
-            + ...
+Máy server: 
++ Nhập id và password ở bên máy client
++ ...
 
 Lỗi chưa xử lí: 
 + Màn hình height bị lỗi ?? -> location mouse nhận lỗi -> di lệch đi 10-20px
